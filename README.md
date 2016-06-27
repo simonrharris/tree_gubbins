@@ -25,3 +25,5 @@ Options:
   -i, --iterative       Run in iterative mode, which allows nested clusters.
                         Default = do not run iteratively (much faster)
 
+Output:
+The csv file produced by TreeGubbins can be viewed along with the tree in Phandango: http://jameshadfield.github.io/phandango/
