@@ -1,6 +1,6 @@
 # TreeGubbins
 
-A python script for identifying matches to resistance alleles in genome assemblies. Unlike many other methods map_resistome will highlight partial matches at contig boundaries that may be the result of assembly issues for repetitive resistance genes.
+A python script for identifying clusters in phylogenetic trees based on a one dimensional scanning statistic on clade branch lengths.
 
 Requirements:
 
