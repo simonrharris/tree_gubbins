@@ -26,4 +26,4 @@ Options:<br>
                         Default = do not run iteratively (much faster)<br>
 
 Output:
-The csv file produced by TreeGubbins can be viewed along with the tree in Phandango: http://jameshadfield.github.io/phandango/
+The csv file produced by TreeGubbins can be viewed along with the tree in Phandango: http://www.phandango.net
