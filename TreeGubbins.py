@@ -233,7 +233,7 @@ if __name__ == "__main__":
 		
 		tree.deroot()
 		
-		for node in tree.leaf_iter():
+		for node in tree.leaf_node_iter():
 			taxa.add(node.taxon.label)
 		
 		if len(taxa)<3:
@@ -311,7 +311,7 @@ if __name__ == "__main__":
 		test_values.reverse()
 		
 		removedset=set([])
-#		for likelihood in likelihoods[:1]:
+
 		for x, likelihood in enumerate(likelihoods):
 			if options.iterative and x>0:
 				break
